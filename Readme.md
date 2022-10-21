@@ -1,8 +1,8 @@
-# tugas python pertemuan5
+# Tugas Python Pertemuan 5
 
 Repository ini digunakan untuk memenuhi Tugas Bahasa Pemrograman Pertemuan-5<br><br>
-Nama : Orta Yamaesa <br>
-NIM : 312210147<br>
+Nama : ANANDA MIKOLA SAPUTRA <br>
+NIM : 312210281<br>
 Kelas : TI.22.B1<br>
 
 ### DAFTAR ISI <br>
